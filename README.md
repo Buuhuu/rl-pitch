@@ -2,8 +2,8 @@
 
 
 ## Environments
-- Preview: https://main--ralphlauren--hlxsites.hlx.page/
-- Live: https://main--ralphlauren--hlxsites.hlx.live/
+- Preview: https://main--rl-pitch--buuhuu.hlx.page/
+- Live: https://main--rl-pitch--buuhuu.hlx.live/
 
 ## Installation
 
